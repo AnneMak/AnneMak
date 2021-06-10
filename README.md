@@ -9,3 +9,4 @@ AnneMak/AnneMak is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Tnx I am bussy with Kali Linux, but for Etical Hacking is Phython oso important
+My email is anne-mak@xs4all.nl
